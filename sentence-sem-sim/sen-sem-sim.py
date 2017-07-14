@@ -1,9 +1,7 @@
-# author : Sujit Pal
-
+# author : Sujit Pal & adapted by Mathieu Chrétien (mchretien.pro@mail.com)
 # Note: this is a python3 updated version of http://sujitpal.blogspot.fr/2014/12/semantic-similarity-for-short-sentences.html
-# by mathieu Chrétien (mchretien.pro@mail.com)
 
-# contributor : Mathieu Chrétien
+# contributor : Shaun Chiang (redbeansodapop@hotmail.com)
 
 from __future__ import division
 import nltk
