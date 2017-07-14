@@ -1,7 +1,7 @@
 # sentence-sem-sim
 Sentence Semantic Similarity in Python.
 
-Adapted from https://github.com/sujitpal/nltk-examples/blob/master/src/semantic/short_sentence_similarity.py
+Packaged from https://github.com/sujitpal/nltk-examples/blob/master/src/semantic/short_sentence_similarity.py
 and https://gist.github.com/chretm/fdcefce520ddfa1b66af3c730d4928c0
 
 # Usage
